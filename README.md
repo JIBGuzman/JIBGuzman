@@ -42,12 +42,3 @@ My name is Joseph
 </div>
 
 ---
-
-#### 🔥 Stats
-
-<div id="graphs" align="center">
-  
-  [![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JIBGuzman&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JIBGuzman&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JIBGuzman&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
