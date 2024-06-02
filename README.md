@@ -38,7 +38,7 @@ My name is Joseph
 
 <div id="badges" align="center">
 
-  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JosephGuzman](https://www.linkedin.com/in/josephguzmani/))
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephguzmani](https://www.linkedin.com/in/josephguzmani/))
 </div>
 
 ---
