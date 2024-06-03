@@ -34,7 +34,7 @@ My name is Joseph
 
 ---
 
-#### 🙋‍♂️ Socials
+#### 🙋‍♂️ LinkedIN
 
 <div id="badges" align="center">
 
